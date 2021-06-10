@@ -1,2 +1,2 @@
-# Do-rusal_Regrsyon_ve_Kuzenleri
+# Dogrusal_Regresyon_ve_Kuzenleri
 Günlük hayatta kullanılabilecek basit örnekler
